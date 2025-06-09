@@ -2,7 +2,7 @@
 
 A simple and modern full-stack password manager built with:
 
-- React.js (frontend)
+- React + Vite (frontend)
 - Tailwind CSS (UI)
 - Express.js (API)
 - MongoDB (database)
